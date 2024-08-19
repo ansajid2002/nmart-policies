@@ -20,3 +20,7 @@ export default function RootLayout({
     </html>
   );
 }
+
+
+export const AdminUrl = "https://nmart.demo-web.live"; 
+// export const AdminUrl = "http://192.168.1.23:3001";
