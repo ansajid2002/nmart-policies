@@ -5,9 +5,9 @@ export default function Home() {
     <div className="p-5 bg-white md:p-8 lg:p-16 space-y-5 leading-relaxed text-base mx-2 md:text-xl">
 
 <h1  className=" text-3xl md:text-5xl">Privacy Policy</h1>
-    <p>Last updated: August 18, 2024</p>
+    <p>Last updated: November 26, 2024</p>
     <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
-    <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.termsfeed.com/privacy-policy-generator/" target="_blank">Privacy Policy Generator</a>.</p>
+    <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
     <h2>Interpretation and Definitions</h2>
     <h3 className="text-xl md:text-4xl">Interpretation</h3>
     <p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
@@ -21,10 +21,10 @@ export default function Home() {
     <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
     </li>
     <li>
-    <p><strong>Application</strong> refers to Nile Mart, the software program provided by the Company.</p>
+    <p><strong>Application</strong> refers to Suuqa Bakaaraha, the software program provided by the Company.</p>
     </li>
     <li>
-    <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Nile Mart.</p>
+    <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Suuqa Bakaaraha.</p>
     </li>
     <li>
     <p><strong>Country</strong> refers to: Maharashtra,  India</p>
@@ -152,7 +152,7 @@ export default function Home() {
     <h2>Contact Us</h2>
     <p>If you have any questions about this Privacy Policy, You can contact us:</p>
     <ul>
-    <li>By email: sjdev0569@gmail.com</li>
+    <li>By email: Suuqbakaary@gmail.com</li>
     </ul>
     </div>
 

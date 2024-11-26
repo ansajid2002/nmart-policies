@@ -4,9 +4,9 @@ const { sendmail } = require("./contactuspage/mail");
 export const send = async (name, email, phone, message) => {
   try {
     await sendmail({
-      to: "sjdev0569@gmail.com",
+      to: "Suuqbakaary@gmail.com",
       name: name,
-      subject: "Enquiry For Nile Mart app",
+      subject: "Enquiry For Suuqa Bakaaraha app",
       body: `
         <div>
           <h3>Name: ${name}</h3>

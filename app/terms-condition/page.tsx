@@ -3,7 +3,7 @@ import React from 'react'
 const Page = () => {
   return (
     <div className="p-5 bg-white md:p-8 lg:p-16 space-y-5 leading-relaxed text-base mx-2 md:text-xl"><h1  className=" text-3xl md:text-5xl">Terms and Conditions</h1>
-    <p>Last updated: August 18, 2024</p>
+    <p>Last updated: November 26, 2024</p>
     <p>Please read these terms and conditions carefully before using Our Service.</p>
     <h2>Interpretation and Definitions</h2>
     <h3 className="text-xl md:text-4xl">Interpretation</h3>
@@ -12,7 +12,7 @@ const Page = () => {
     <p>For the purposes of these Terms and Conditions:</p>
     <ul>
     <li>
-    <p><strong>Application</strong> means the software program provided by the Company downloaded by You on any electronic device, named Nile Mart</p>
+    <p><strong>Application</strong> means the software program provided by the Company downloaded by You on any electronic device, named Suuqa Bakaaraha</p>
     </li>
     <li>
     <p><strong>Application Store</strong> means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.</p>
@@ -24,7 +24,7 @@ const Page = () => {
     <p><strong>Country</strong> refers to: Maharashtra,  India</p>
     </li>
     <li>
-    <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Nile Mart.</p>
+    <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Suuqa Bakaaraha.</p>
     </li>
     <li>
     <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -33,7 +33,7 @@ const Page = () => {
     <p><strong>Service</strong> refers to the Application.</p>
     </li>
     <li>
-    <p><strong>Terms and Conditions</strong> (also referred as &quot;Terms&quot;) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the <a href="https://www.termsfeed.com/terms-conditions-generator/" target="_blank">Terms and Conditions Generator</a>.</p>
+    <p><strong>Terms and Conditions</strong> (also referred as &quot;Terms&quot;) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.</p>
     </li>
     <li>
     <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
@@ -85,7 +85,7 @@ const Page = () => {
     <h2>Contact Us</h2>
     <p>If you have any questions about these Terms and Conditions, You can contact us:</p>
     <ul>
-    <li>By email: sjdev0569@gmail.com</li>
+    <li>By email: Suuqbakaary@gmail.com</li>
     </ul></div>
   )
 }
